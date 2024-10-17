@@ -27,20 +27,26 @@ Welcome to the **Drone Tech** website project! This is a React-based web applica
 ```
 
 ## Tech Stack
+
 ### Frontend:
+
 - React (with Vite for fast development and build)
 - Styling: CSS/SCSS
 - Icons: Font Awesome
 - State Management: React useState, useEffect
+
 ### Deployment:
+
 - Vercel
 
 ## Setup Instructions
+
 ### Step-by-Step Setup
+
 1. **Clone the Repository**:
-    git clone https://github.com/your-repo-url.git
-    cd drone-tech
+   git clone https://github.com/your-repo-url.git
+   cd drone-tech
 2. **Install Dependencies**:
-    npm install
+   npm install
 3. **Run the Development Server:**
-    npm run server
+   npm run server
